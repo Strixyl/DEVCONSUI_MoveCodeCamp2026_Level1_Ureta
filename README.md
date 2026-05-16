@@ -353,13 +353,13 @@ sui client call `
   --module portfolio `
   --package <YOUR_PACKAGE_ID> `
   --args `
-  "YOUR FULL NAME" `
-  "Your Course" `
-  "Your School" `
-  "Write a short description about yourself." `
-  "https://www.linkedin.com/in/your-profile/" `
-  "https://github.com/your-username" `
-  "Skill 1,Skill 2,Skill 3,Skill 4,Skill 5"
+  "Juster S. Ureta" `
+  "Computer Science" `
+  "Central Philippine University" `
+  "CS Student" `
+  "https://www.linkedin.com/in/juster-ureta-1b608b369/" `
+  "https://github.com/Strixyl" `
+  "Python, Database Basics, ,UI/UX Design,"
 ```
 
 **Example (filled in):**
